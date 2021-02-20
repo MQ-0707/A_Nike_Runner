@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://running-iota.vercel.app/sitemap.xml
+Host: https://running-iota.vercel.app
